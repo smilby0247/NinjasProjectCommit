@@ -1,0 +1,10 @@
+﻿@model IEnumerable<NinjaDomain.Classes.Ninja>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+@Html.Action("NinjaGrid")
+@Html.Action("ClanGrid")
+

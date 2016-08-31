@@ -1,0 +1,14 @@
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\smilby0247\Desktop\ENTITY FILES\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

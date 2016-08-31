@@ -1,0 +1,46 @@
+﻿@model IEnumerable<NinjaDomain.Classes.Clan>
+
+@{
+    ViewBag.Title = "ClanGrid";
+}
+
+<h2>Clans</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateClan")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ClanName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateCreated)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateModified)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.ClanName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateCreated, "{0:d}")
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateModified, "{0:d}")
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "ClanEdit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "ClanDetails", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "ClanDelete", new { id=item.Id }) 
+        </td>
+    </tr>
+}
+
+</table>
